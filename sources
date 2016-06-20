@@ -1,0 +1,6 @@
+SOURCES=CallGateInstaller.c \
+ImageLoadNotify.c \
+main.c
+TARGETNAME=DriverEx
+TARGETTYPE=DRIVER
+TARGETPATH=.
